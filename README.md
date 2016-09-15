@@ -35,6 +35,12 @@
 
 * I edited locations.js to reflect one of the venues listed in pizza.js, added reviews and edited geolocation data, as well as times the venue is open
 
+* Pushed to GitHub
+
+* Deployed to Heroku
+
+I found this [link from Heroku](https://devcenter.heroku.com/articles/heroku-command-line) and this [link from Cloud 9](https://docs.c9.io/docs/deploying-via-cli) to be very helpful for instructions on how to install Heroku on Cloud 9.
+
 ## Extra notes:
 
 __Linux commands cheat sheet__
